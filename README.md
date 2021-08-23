@@ -1,10 +1,10 @@
   👋 Hi there!/👋 Olá! I'm THEO NICOLAS
 
 
--🔭 I’m currently working on my own projects just to learn and pratice Programming (BACK-END and Front-end. **FULL STACK**) Trying and Data Science👨🏽‍🔬 and Analytcs🕵🏽‍♀️🤓. 
--📚 I’m currently learning Python, HTML, Javacript, CSS - I'm trying to follow that sequence. Next ones:  SLQ, AWS, ORACLE and Power BI.
--👯 I'm looking to collaborate on projects related to the things I'm learning, to learn more and improve my skills.
--🤝🏽 I’m looking for help e collaborate with the IT community. All my important studies I will put them here.
+-🔭 I’m currently working on my own projects just to learn and pratice Programming (BACK-END and Front-end. **FULL STACK**) Trying and Data Science👨🏽‍🔬 and Analytcs🕵🏽‍♀️🤓. <br>
+-📚 I’m currently learning Python, HTML, Javacript, CSS - I'm trying to follow that sequence. Next ones:  SLQ, AWS, ORACLE and Power BI.<br>
+-👯 I'm looking to collaborate on projects related to the things I'm learning, to learn more and improve my skills.<br>
+-🤝🏽 I’m looking for help e collaborate with the IT community. All my important studies I will put them here.<br>
 -⚡ Fun fact: All my youth I worked with data analysis, before I knew it existed. So because of $$ I switched careers and graduated in law. But now the love of Data and Programming is higher. After 10 years of another career I am going to IT with all my strength.
 
  <div>
