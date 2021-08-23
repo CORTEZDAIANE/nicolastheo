@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my own projects just to learn and pratice Programming (BACK-END and Front-end. **FULL STACK**) Trying and Data Science👨🏽‍🔬 and Analytcs🕵🏽‍♀️🤓. 
-- 🌱 I’m currently learning Python, HTML, Javacript, CSS, SLQ, ORACLE and Power BI. - I'm trying to follow that sequence.
+- 🌱 I’m currently learning Python, HTML, Javacript, CSS - I'm trying to follow that sequence. Next ones:  SLQ, AWS, ORACLE and Power BI.
 - 👯 I'm looking to collaborate on projects related to the things I'm learning, to learn more and improve my skills.
 - 🤔 I’m looking for help e collaborate with the IT community. All my important studies I will put them here.
 - ⚡ Fun fact: All my youth I worked with data analysis, before I knew it existed. So because of $$ I switched careers and graduated in law. But now the love of Data and Programming is higher. After 10 years of another career I am going to IT with all my strength.
@@ -10,7 +10,7 @@
  <div>
   <a href="https://github.com/NICOLASTHEO/nicolastheo">
   <img height="145em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nicolastheo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="555em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastheo&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="145em" width="540em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastheo&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
   <div style="display: inline_block"><br>
