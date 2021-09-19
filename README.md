@@ -1,26 +1,33 @@
-  👋 Hi there!/👋 Olá! I'm THEO NICOLAS
+  👋 <h3>Hi there!/👋 Olá! I'm THEO NICOLAS</h3>
 
-
--🔭 I’m currently working on my own projects just to learn and pratice Programming  and Tests (BACK-END and Front-end.), still going through some data Science👨🏽‍🔬 and Analytcs🕵🏽‍♀️🤓. <br>
--📚 I’m currently learning Python, Javacript, HTML, CSS - I'm trying to follow that sequence. Next ones:  SLQ, Power BI, AWS and Java.<br>
--👯 I'm looking to collaborate on projects related to the things I'm learning, to learn more and improve my skills.<br>
--🤝🏽 I’m looking for help e collaborate with the IT community. All my important studies I will put them here.<br>
--⚡ Fun fact: All my youth I worked with data analysis, before I knew it existed. So because of $$ I switched careers and graduated in law. But now the love of Data and Programming is higher. After 10 years of another career I am going to IT with all my strength.
+<ul>
+<li>🔭 I’m currently working on my own projects just to learn and pratice <strong>Programming  and Tests (Back-end and Front-end.),</strong> still going through some <strong>data Science👨🏽‍🔬 and Analytcs🕵🏽‍♀️🤓</strong> with Python and SQL. </li>
+<li>📚 I'm improving my skills in Javacript, HTML, CSS and others in front end. In Back and I'm learnig especially Firebase, MongoDb and NodeJS - I'm trying to follow that sequence. Next ones are:  MySLQ, .Net/C#, Java.</li>
+<li>👯 I'm looking to collaborate on projects related to the things I'm learning, to learn more and improve my skills.</li>
+<li>🤝🏽 I’m looking for help e collaborate with the IT community. All my important studies I will put them here.</li>
+<li>⚡ Fun fact: All my youth I worked with data analysis, before I knew it existed. So because of $$ I switched careers and graduated in law. But now the love of Data and Programming is higher. After 10 years of another career I am going to IT with all my strength.
 
  <div>
+   <br>
   <a href="https://github.com/NICOLASTHEO/nicolastheo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolastheo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastheo&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="theo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <h4> I'm currently Learning and Improving: </h4>
   <img align="center" alt="theo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="theo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="theo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="theo-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <!--<img align="center" alt="theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
+  <img align="center" alt="theo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   <img align="center" alt="theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="theo-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <!--<img align="center" alt="theo-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">-->
+  <img align="center" alt="theo-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="theo-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
  
