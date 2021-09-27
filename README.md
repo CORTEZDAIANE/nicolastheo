@@ -3,7 +3,7 @@
 <ul>
 <li>🔭 I’m currently working on my own projects just to learn and pratice <strong>Programming  and Tests (Back-end and Front-end.),</strong> still going through some <strong>data Science👨🏽‍🔬 and Analytcs🕵🏽‍♀️🤓</strong> with Python and SQL. </li>
 <li>📚 I'm improving my skills especially on Front-end in HTML, CSS and Javacript. In Back and I'm learnig especially Firebase, MongoDb and NodeJS - I'm trying to follow that sequence. Once a week I prattice a little of: Python and Java.</li>
-<li> I'm improving my skills and working on small QA projects, as testing Software Qualities as Automating some tests. In this marvelous area I'm using Ruby and Cucumber also Python with RobotFramework. <li>
+<li> I'm improving my skills and working on small QA projects, as testing Software Qualities as Automating some tests. In this marvelous area I'm using Ruby and Cucumber also Python with RobotFramework. </li>
 <li>👯 I'm looking to collaborate on projects related to the things I'm learning, to learn more and improve my skills.</li>
 <li>🤝🏽 I’m looking for help e collaborate with the IT community. All my important studies I will put them here.</li>
 <li>⚡ Fun fact: All my youth I worked with data analysis, before I knew it existed. So because of $$ I switched careers and graduated in law. But now, many years later, the love for IT (programming, testing and datas) has won. After 10 years of another career I am going to IT with all my strength.
