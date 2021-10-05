@@ -1,7 +1,7 @@
   👋 <h3>Hi there!/👋 Olá! I'm THEO NICOLAS</h3>
 
 <ul>
-<li>🔭 I’m currently working on my own projects just to learn and pratice <strong>Programming (Front-end and Back-end)</strong> and <strong>Tests (QA and Automation),</strong> still going through some <strong>Data Analytcs🕵🏽‍♀️🤓</strong> with Python and SQL. </li>
+<li>🔭 I’m currently working on my own projects just to learn and pratice <strong>Programming (Front-end and Back-end)</strong> and <strong>Tests (QA and Automation),</strong> still going through some <strong>Data Analytcs🕵🏽‍♀️🤓</strong> with Python, SQL, Power BI and Google Data Studio. </li>
 <li>📚 I'm improving my skills especially on Front-end in HTML, CSS and Javacript. In Back and I'm learnig especially Firebase, MongoDb and NodeJS - I'm trying to follow that sequence. Once a week I prattice a little of: Python and Java.</li>
 <li> I'm improving my skills and working on small QA projects, as testing Software Qualities as Automating some tests. In this marvelous area I'm using Ruby and Cucumber also Python with RobotFramework. </li>
 <li>👯 I'm looking to collaborate on projects related to the things I'm learning, to learn more and improve my skills.</li>
