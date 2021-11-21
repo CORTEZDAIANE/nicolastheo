@@ -1,12 +1,14 @@
   👋 <h3>Hi there!/👋 Olá! I'm THEO NICOLAS</h3>
 
 <ul>
-<li>🔭 I’m currently working on my own projects just to learn and pratice <strong>Programming (Front-end and Back-end)</strong> and <strong>Tests (QA and Automation),</strong> still going through some <strong>Data Analytcs🕵🏽‍♀️🤓</strong> with Python, SQL and Google Data Studio. </li>
-<li>📚 I'm improving my skills especially on Front-end in HTML, CSS and Javacript. In Back and I'm learnig especially Firebase, MongoDb and NodeJS - I'm trying to follow that sequence. Once a week I prattice a little of: Python and Java.</li>
-<li> I'm improving my skills and working on small QA projects, as testing Software Qualities as Automating some tests. In this marvelous area I'm using Ruby and Cucumber also Python with RobotFramework. </li>
+<li>🔭 I'm currently working with quality and testing, like QA. This wonderful area makes me involved as a professional and "detective", taking care of everything in a software application.
+  <p> <em> Before testing, everything is suspect. </em> </p>
+<li> I'm still working on my own projects just to learn and pratice <strong>Programming (Front-end)</strong>, still going through some <strong>Data Analytcs🕵🏽‍♀️🤓</strong> with Python, SQL and Google Data Studio. </li>
+<li>📚 In programming I'm improving my skills especially on Front-end in HTML, CSS and Javacript. In Back I'll go with Firebase, MongoDb and NodeJS - I'm trying to follow that sequence.</li>
+<li> <ul> I'm improving my skills and working on QA projects, professional and just to practice on my own, with Software Qualities testing and with Functional Testing and Automation. In this wonderful area I'm using Ruby, Cucumber (gherkin), Capybara and also Python with RobotFramework. And trying to learn tests with Java. All with Selenium and Selenide.</ul></li>
 <li>👯 I'm looking to collaborate on projects related to the things I'm learning, to learn more and improve my skills.</li>
 <li>🤝🏽 I’m looking for help e collaborate with the IT community. All my important studies I will put them here.</li>
-<li>⚡ Fun fact: All my youth I worked with data analysis, before I knew it existed. So because of $$ I switched careers and graduated in law. But now, many years later, the love for IT (programming, testing and datas) has won. After 10 years of another career I am going to IT with all my strength.
+<li>⚡ Fun fact: Throughout my youth I worked with data analysis and functional testing, before I knew they existed. So, because of $$, I changed careers and got a law degree. But now, a few years later, the love of IT (testing and programming) has won. After my graduation and years in another career, I am "going back" to IT with all my strength, but now applying technical skills and tools.</li>
 
  <div>
    <br>
@@ -31,7 +33,7 @@
  <!-- <img align="center" alt="theo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
   <img align="center" alt="theo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="theo-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
- <!-- <img align="center" alt="theo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">-->
+  <img align="center" alt="theo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
   
     
