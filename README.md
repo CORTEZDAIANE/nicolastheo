@@ -1,7 +1,7 @@
   👋 <h3>Hi there!/👋 Olá! I'm THEO NICOLAS</h3>
 
 <ul>
-<li>🔭 I'm currently working with quality and testing, like QA. This wonderful area makes me involved as a professional and "detective", taking care of everything in a software application.
+<li>🔭 I'm currently working with quality and testing, as QA. This wonderful area makes me involved as a professional and "detective", taking care of everything in a software application.
   <p> <em> Before testing, everything is suspect. </em> </p>
 <li> I'm still working on my own projects just to learn and pratice <strong>Programming (Front-end)</strong>, still going through some <strong>Data Analytcs🕵🏽‍♀️🤓</strong> with Python, SQL and Google Data Studio. </li>
 <li>📚 In programming I'm improving my skills especially on Front-end in HTML, CSS and Javacript. In Back I'll go with Firebase, MongoDb and NodeJS - I'm trying to follow that sequence.</li>
